@@ -1,0 +1,2 @@
+1234.txt filter=lfs diff=lfs merge=lfs -text
+123456.txt filter=lfs diff=lfs merge=lfs -text
